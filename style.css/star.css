@@ -1,0 +1,11 @@
+.star{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding-top: 10px;
+    gap:    20px;
+    color: #153C3C;
+    background-color: #ADC9A6;
+}

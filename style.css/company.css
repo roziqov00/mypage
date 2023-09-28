@@ -1,0 +1,58 @@
+.company{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+
+.companypag1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px; 
+    padding-left: 100px;  
+}
+
+.companyteg{
+    width: 100%;
+    display: flex;
+    font-size:25;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 20px;
+    text-align: center;
+    
+}
+.company_text{
+    font-size: 14px;
+    display: flex;
+    width: 251px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background-color:#F3F2F1 ;
+}
+.companypag{
+    width:42%;
+    flex-direction: column;
+    display: flex; 
+    margin: 20px;
+    align-items: center;
+    padding-top: 30px;
+    border-radius: 4px;
+    background-color: rgb(240, 224, 224);
+}
+.companypagh4{
+    width: 400px;
+    height: 50px;
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+    border-radius: 4px;
+}

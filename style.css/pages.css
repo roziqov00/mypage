@@ -1,0 +1,47 @@
+.pages{
+    width: 100%;
+    display: flex;
+    margin: 20px;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+
+.pages_text{
+    font-size: 14px;
+    display: flex;
+    width: 251px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background-color:#F3F2F1 ;
+}
+.pegasteg{
+    width: 100%;
+    display: flex;
+    font-size:25;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 20px;
+    text-align: center;
+    
+}
+
+.pagespag{
+width: 35%;
+height: 80px;
+color: #304447;
+border-radius: 4px ;
+align-items: center;
+display: flex;
+justify-content: space-between;
+padding: 30px;
+background-color:#F3F2F1 ;
+}

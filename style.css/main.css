@@ -1,0 +1,18 @@
+@import url('./star.css');
+@import url('./alignlogo.css');
+@import url('./align.css');
+@import url('./discover.css');
+@import url('./company.css');
+@import url('./cms.css');
+@import url('pricing.css');
+@import url('pages.css');
+@import url('wrapper.css');
+@import url('bag.css');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}

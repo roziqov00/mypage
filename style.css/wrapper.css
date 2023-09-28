@@ -1,0 +1,41 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    
+    
+}
+.wrappers{
+    color: #fff;
+    width: 70%;
+     height: 300px;
+    display: flex;
+    padding-left: 100px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 230px;
+    background-color: black;
+    background-image: url(/img/Vector\ \(2\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.wrapper button{
+    width:142px ;
+    height: 48px;
+    border:none ;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #84A17D;
+}
+.wrapperp{
+    display: flex;
+    gap: 20px;
+    padding-top: 20px;
+    line-height: 20px;
+}
+.wrapperp h2{
+    color: #ADC9A6;
+    font-size: 50px;
+}
